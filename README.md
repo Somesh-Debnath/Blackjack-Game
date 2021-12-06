@@ -1,1 +1,1 @@
-Blackjack Game using Javascript
+<b>Blackjack Game using Javascript<b>
